@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\Documents\GIT\Dela Hana A\Assigment-\AssigmentTest\AssigmentTest\bin\Debug\netcoreapp3.1\AssigmentTest.exe
+C:\Users\TOSHIBA\Documents\GIT\Dela Hana A\Assigment-\AssigmentTest\AssigmentTest\bin\Debug\netcoreapp3.1\AssigmentTest.deps.json
+C:\Users\TOSHIBA\Documents\GIT\Dela Hana A\Assigment-\AssigmentTest\AssigmentTest\bin\Debug\netcoreapp3.1\AssigmentTest.runtimeconfig.json
+C:\Users\TOSHIBA\Documents\GIT\Dela Hana A\Assigment-\AssigmentTest\AssigmentTest\bin\Debug\netcoreapp3.1\AssigmentTest.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Documents\GIT\Dela Hana A\Assigment-\AssigmentTest\AssigmentTest\bin\Debug\netcoreapp3.1\AssigmentTest.dll
+C:\Users\TOSHIBA\Documents\GIT\Dela Hana A\Assigment-\AssigmentTest\AssigmentTest\bin\Debug\netcoreapp3.1\AssigmentTest.pdb
+C:\Users\TOSHIBA\Documents\GIT\Dela Hana A\Assigment-\AssigmentTest\AssigmentTest\obj\Debug\netcoreapp3.1\AssigmentTest.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\Documents\GIT\Dela Hana A\Assigment-\AssigmentTest\AssigmentTest\obj\Debug\netcoreapp3.1\AssigmentTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Documents\GIT\Dela Hana A\Assigment-\AssigmentTest\AssigmentTest\obj\Debug\netcoreapp3.1\AssigmentTest.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Documents\GIT\Dela Hana A\Assigment-\AssigmentTest\AssigmentTest\obj\Debug\netcoreapp3.1\AssigmentTest.AssemblyInfo.cs
+C:\Users\TOSHIBA\Documents\GIT\Dela Hana A\Assigment-\AssigmentTest\AssigmentTest\obj\Debug\netcoreapp3.1\AssigmentTest.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Documents\GIT\Dela Hana A\Assigment-\AssigmentTest\AssigmentTest\obj\Debug\netcoreapp3.1\AssigmentTest.dll
+C:\Users\TOSHIBA\Documents\GIT\Dela Hana A\Assigment-\AssigmentTest\AssigmentTest\obj\Debug\netcoreapp3.1\AssigmentTest.pdb
+C:\Users\TOSHIBA\Documents\GIT\Dela Hana A\Assigment-\AssigmentTest\AssigmentTest\obj\Debug\netcoreapp3.1\AssigmentTest.genruntimeconfig.cache
