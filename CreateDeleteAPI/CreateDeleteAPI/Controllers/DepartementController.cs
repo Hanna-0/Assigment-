@@ -4,6 +4,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using CreateDeleteAPI.Model;
+
 
 namespace CreateDeleteAPI.Controllers
 {
@@ -11,13 +13,22 @@ namespace CreateDeleteAPI.Controllers
     [ApiController]
     public class DepartementController : ControllerBase
     {
-        [HttpPost]
-        public async Task<Department> InsertDepartment(DepartmentModel model)
+
+        private readonly APIDbContext DBContext;
+        public DepartementController(APIDbContext context)
         {
-                DBContext.Departments.Add(model);
-                await DBContext.SaveChangesAsync();
-                return model;
+           DBContext = context;
         }
+
+        [HttpPost]
+        public async Task<IActionResult> CreateDepartment(DepartementModel model)
+        {
+            var entity = DBContext.Depertement.Add(model);
+            await DBContext.SaveChangesAsync();
+
+            return Ok(model);
+        }
+
 
         [HttpDelete]
         public bool DeleteDepartment(int ID)
@@ -26,7 +37,7 @@ namespace CreateDeleteAPI.Controllers
             var department = DBContext.Department(ID);
             if (department != null)
             {
-                DBContext.Entry(department).State = EntityState.Deleted;
+                DBContext.Entry(Departement).State = EntityState.Deleted;
                 DBContext.SaveChanges();
                 result = true;
             }
